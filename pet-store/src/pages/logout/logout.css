@@ -1,0 +1,8 @@
+.logout {
+  display: flex;
+}
+
+.logout-wrapper {
+  flex: 10;
+  margin-left: 20px;
+}
