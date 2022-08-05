@@ -6,3 +6,13 @@
   flex: 10;
   margin-left: 20px;
 }
+
+.dashboard-wrapper h1{
+  margin-top: 146px;
+}
+
+.btnd{
+  background-color: #AF44F1;
+  text-align: left;
+  left: 16px;
+}
