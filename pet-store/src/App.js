@@ -4,7 +4,6 @@ import { Database } from "./pages/database/Database";
 import { Logout } from "./pages/logout/Logout";
 import { OrderDetails } from "./pages/order-details/OrderDetails";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import { Sidebar } from "./components/sidebar/Sidebar";
 
 function App() {
   return (
@@ -17,7 +16,6 @@ function App() {
           <Route exact path="/logout" element={<Logout />}></Route>
         </Routes>
       </Router>
-      <Dashboard />
     </div>
   );
 }
