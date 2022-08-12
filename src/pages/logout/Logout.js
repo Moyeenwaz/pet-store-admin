@@ -10,7 +10,6 @@ export const Logout = () => {
         <h1>Do you wish to logout?</h1>
         <button className="btn btn1">Yes</button>
         <button className="btn btn2">No</button>
-        This is a test for repo config
       </div>
     </div>
   );
