@@ -1,0 +1,19 @@
+.login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #aae1d4;
+  width: 689px;
+  height: 587px;
+}
+
+.login-form {
+  display: flex;
+  flex-direction: column;
+}

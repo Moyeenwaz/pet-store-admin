@@ -3,6 +3,9 @@
   height: 100vh;
   background: #cbf8ed;
   box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  position: sticky;
+  left: 0;
+  top: 0;
 }
 
 .logo {
