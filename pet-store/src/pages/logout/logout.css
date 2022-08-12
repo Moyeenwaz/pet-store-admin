@@ -1,0 +1,35 @@
+.logout {
+  display: flex;
+}
+
+.logout-wrapper {
+  flex: 10;
+  margin-left: 20px;
+  text-align: center;
+  margin-top: 320px;
+}
+
+.logout-wrapper h1{
+  color: #545454;
+}
+
+.btn {
+  padding: 32px 95px;
+  font-size: 35px;
+  font-weight: 700;
+  margin: 57px;
+}
+
+.btn1 {
+  color: white;
+  background-color: #3ED7B2;
+  border: none;
+  border-radius: 10px;
+}
+
+.btn2 {
+  color: white;
+  background-color: #FF4E4E;
+  border: none;
+  border-radius: 10px;
+}
