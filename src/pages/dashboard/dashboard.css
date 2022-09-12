@@ -1,0 +1,55 @@
+.dashboard {
+  display: flex;
+}
+
+.dashboard-wrapper {
+  flex: 10;
+  margin-left: 36px;
+}
+
+.dashboard-title {
+  margin-top: 100px;
+  margin-bottom: 40px;
+}
+
+.dashboard-container {
+  display: flex;
+}
+
+.dashboard-item {
+  width: 254px;
+  height: 186px;
+  position: relative;
+}
+
+.dashboard-item-title {
+  color: white;
+  font-weight: 700;
+  font-size: 24px;
+  position: absolute;
+  top: 21px;
+  left: 16px;
+}
+
+.icon {
+  position: absolute;
+  top: 60px;
+  left: 13px;
+}
+
+.total-number {
+  font-size: 32px;
+  color: white;
+  font-weight: 700;
+  position: absolute;
+  bottom: 24px;
+  right: 24px;
+}
+.dashboard-item-pets {
+  margin-right: 20px;
+  background-color: #af44f1;
+}
+
+.dashboard-item-customers {
+  background-color: #4494f1;
+}

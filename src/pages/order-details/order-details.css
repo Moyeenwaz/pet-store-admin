@@ -1,0 +1,8 @@
+.order-details {
+  display: flex;
+}
+
+.order-details-wrapper {
+  flex: 10;
+  margin-left: 20px;
+}
