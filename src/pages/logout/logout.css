@@ -1,8 +1,68 @@
 .logout {
   display: flex;
+
 }
 
 .logout-wrapper {
   flex: 10;
-  margin-left: 20px;
+  margin-left: 290px;
+  margin-right: 320px;
+  margin-top: 180px;
+  text-align: center;
+  padding-left: 40px;
+  padding-right: 20px;
+  width: 80%;
+  background: #F0F0F0;
+  border-radius: 60.4331px;
+  margin-bottom: 230px;
+
+}
+
+.text{
+  margin-top: 80px;
+  padding-left: 30px;
+  padding-right: 30px;
+  color: #6BA9B7;
+}
+.logbtn{
+  margin-top: 40px;
+  background-color: #F0F0F0;
+  margin-left: 30px;
+  border-left: 30px;
+  width: 80%; 
+
+}
+.btn1{
+  margin-right: 30px;
+  height: 40px;
+  border-radius: 16px;
+  background-color: white;
+  font-weight: 500;
+  color: #6BA9B7;
+  font-size: 30.8864px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border: none;
+}
+.btn1:hover {
+    transform: scale(0.9);
+    background-color: #d3dfdc;
+  }
+
+.btn2{
+  margin-right: 30px;
+  height: 40px;
+  border-radius: 16px;
+  background-color: #6BA9B7;
+  font-weight: 500;
+  color: white;
+  font-size: 30.8864px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border: none;
+}
+
+.btn2:hover {
+  transform: scale(0.9);
+  background-color: #49b097;
 }

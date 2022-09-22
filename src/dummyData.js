@@ -77,3 +77,46 @@ export const customers = [
     phone: "0901234676",
   },
 ];
+
+export const orders = [
+  {
+    id: 1,
+    img: "images/human.png",
+    name: "moyeen",
+    email: "moyeen@yahoo.com",
+    phone: "0901234676",
+    address: "Inlaks Plot 1611 Adeola Hopewell VI Lagos",
+  },
+  {
+    id: 2,
+    img: "images/human.png",
+    name: "moyeen",
+    email: "moyeen@yahoo.com",
+    phone: "0901234676",
+    address: "Inlaks Plot 1611 Adeola Hopewell VI Lagos",
+  },
+  {
+    id: 3,
+    img: "images/human.png",
+    name: "moyeen",
+    email: "moyeen@yahoo.com",
+    phone: "0901234676",
+    address: "Inlaks Plot 1611 Adeola Hopewell VI Lagos",
+  },
+  {
+    id: 4,
+    img: "images/human.png",
+    name: "moyeen",
+    email: "moyeen@yahoo.com",
+    phone: "0901234676",
+    address: "Inlaks Plot 1611 Adeola Hopewell VI Lagos",
+  },
+  {
+    id: 5,
+    img: "images/human.png",
+    name: "moyeen",
+    email: "moyeen@yahoo.com",
+    phone: "0901234676",
+    address: "Inlaks Plot 1611 Adeola Hopewell VI Lagos",
+  },
+];
