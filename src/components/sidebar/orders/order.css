@@ -1,0 +1,44 @@
+.table-head {
+    list-style: none;
+    width: 95%;
+    margin: 40px auto 33px;
+    /* display: flex;
+    justify-content: space-between; */
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    font-weight: 700;
+    font-size: 20px;
+  }
+  
+  .table-row {
+    box-sizing: content-box;
+    width: 95%;
+    height: 101px;
+    list-style: none;
+    font-size: 15px;
+    /* display: flex;
+    justify-content: space-between;
+    align-items: center; */
+    display: grid;
+    align-items: center;
+    grid-template-columns: repeat(6, 1fr);
+    margin: 0 auto;
+    background-color: #cbf8ed;
+  }
+  
+  .cell {
+    justify-self: center;
+  }
+  
+  .table-row:nth-child(odd) {
+    background-color: #fff;
+  }
+  
+  .available {
+    color: #12a421;
+  }
+  
+  .not-available {
+    color: #f31414;
+  }
+  
